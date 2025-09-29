@@ -1,0 +1,7 @@
+venv
+temp
+results
+uploads
+.env
+__pycache__
+pdf_processing.log
