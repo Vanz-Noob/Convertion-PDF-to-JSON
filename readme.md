@@ -63,4 +63,6 @@ A Python-based web application built with Streamlit that extracts product detail
 7.  **View the extracted products and summary values.**
 8.  **Download the resulting JSON file if needed.**
 
-## Project Structure
+## License
+
+© 2025 Renaldi Azhar. All rights reserved.
